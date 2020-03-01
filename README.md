@@ -1,2 +1,2 @@
 # cw1
-C/
+Sebastian Kośka, 15c, s15413
